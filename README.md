@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm emotigonecrazy, or EC. I'm rather new to the world of software and I'm taking my first steps on a journey to make my way into the world of software engineering. 
+I'm currently working on prework for my first software development course.
+I'm currently learning Javascript
+Fun fact! Most humans are able to see color in a spectrum ranging from red to purple. Because of its placement near the middle of this visible spectrum, most humans (with the exception of people who have color vision deficiencies) are able to differentiate between more shades of green than any other color.
