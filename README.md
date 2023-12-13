@@ -1,20 +1,26 @@
-### Hi there 👋
+## Hello there!
+I'm EnigmaticCoding, or EC, and you've found yourself on my github. Welcome! 
 
-<!--
-**EnigmaticCoding/EnigmaticCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I like to tell people I was born with a pencil in my hand, the drive to create preinstalled in my brain. I'm someone who looks out into the world for inspiration and asks myself "how are they doing that? How can 𝘐 do that?" With the world turning digital my next step is to get under the hood of the software that drives our lives, learning the tools of the trade so I can bring my creative drive to building the infrastructure of our modern age.
 
-Here are some ideas to get you started:
+## Current projects:
+I'm currently wrapping up my last week at Tech Elevator, working on a website for an external client as part of a talented team of junior software engineers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hello! I'm enigmaticcoding, or EC. I'm rather new to the world of software and I'm taking my first steps on a journey to make my way into the world of software engineering. 
-I'm currently working on prework for my first software development course.
-I'm currently learning Javascript
-Fun fact! Most humans are able to see color in a spectrum ranging from red to purple. Because of its placement near the middle of this visible spectrum, most humans (with the exception of people who have color vision deficiencies) are able to differentiate between more shades of green than any other color.
+ All the hard work over the past 13 weeks is coming to fruition as I work with my team to build this project from the ground up. There is nothing more satisfying than seeing our project go from a blank page to a fully functional website with every commit!
+
+## Future projects:
+### Lunch bot
+Discord bot written in Java. Designed to suggest local lunch spots based on desired tastes. 
+
+* Created user stories and basic functionality in java. 
+
+### Vibe-check bot 
+Simple discord bot written in Javascript. Designed to check the post history in a given thread and report on the 'vibes'.
+* Planning stages.
+
+### Personal website
+Create a website to further enforce the concepts I've learned over the course of Tech Elevator. Possibly try in python or C# to develop a skill-set in a new language.
+* planning stages
+
+ 
