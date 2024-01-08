@@ -6,9 +6,17 @@ I like to tell people I was born with a pencil in my hand, the drive to create p
 
 ## Current projects:
 
+### Days of code
+A public repository to hold daily exercises in various technologies.
+
+#### Week 1
+* This week technologies I intend to explore include C#, Angular, and Docker
+
 ### Lunch bot
 Currently working on a discord bot written in Java. Designed to suggest local lunch spots based on desired tastes. 
-*Created a trello board to continue using the agie method as I did on my final capstone and added the user stories.
+
+#### Week 4
+* After a brief hiatus for the holidays I've returned to the project. Current focus is completing the ability to display a random restaurant based on a user selection of tags (ie. Asian, Burgers, etc).
 
 ## Future projects:
 
