@@ -6,17 +6,14 @@ I like to tell people I was born with a pencil in my hand, the drive to create p
 
 ## Current projects:
 
-### Days of code
-A public repository to hold daily exercises in various technologies.
-
-#### Week 1
-* This week technologies I intend to explore include C#, Angular, and Docker
+### Learning C#
+Working through lessons to learn C#
 
 ### Lunch bot
 Currently working on a discord bot written in Java. Designed to suggest local lunch spots based on desired tastes. 
 
-#### Week 4
-* After a brief hiatus for the holidays I've returned to the project. Current focus is completing the ability to display a random restaurant based on a user selection of tags (ie. Asian, Burgers, etc).
+#### Week 5
+* Working on a command to display the most current list of restaurants.
 
 ## Future projects:
 
