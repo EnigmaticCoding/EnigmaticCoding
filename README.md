@@ -12,8 +12,9 @@ Working through lessons to learn C#
 ### Lunch bot
 Currently working on a discord bot written in Java. Designed to suggest local lunch spots based on desired tastes. 
 
-#### Week 5
-* Working on a command to display the most current list of restaurants.
+#### This Week
+* Working on a command to display information on a specific restaurant.
+* Advancing through the TE C# modules
 
 ## Future projects:
 
